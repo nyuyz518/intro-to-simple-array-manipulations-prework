@@ -1,7 +1,7 @@
 def using_push (array, string)
-  new_arr = []
-  new_arr = array.push(string)
-  new_arr
+  updated_array = []
+  updated_array = array.push(string)
+  updated_array
 end 
 
 
