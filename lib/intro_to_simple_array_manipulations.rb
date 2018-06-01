@@ -4,16 +4,17 @@ end
 
 
 def using_unshift (array, string)
-  new_arr = []
-  new_arr = array.unshift(string)
+    array.unshift(string)
 end 
-  new_arr
+
   
 def using_pop (array)
-array.pop
+    array.pop
 end 
 
 def pop_with_args(array, string1, string2)
+  array.pop
+  array.pop
 end 
 
 
