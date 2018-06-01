@@ -2,7 +2,7 @@ def using_push (array, string)
   new_arr = []
   new_arr = array.push(string)
 end 
-  new_arr
+
 
 def using_unshift (array, string)
   new_arr = []
