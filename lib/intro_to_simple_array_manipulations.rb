@@ -11,7 +11,6 @@ end
   new_arr
   
 def using_pop (array)
-array.pop 
 array.pop
 end 
 
