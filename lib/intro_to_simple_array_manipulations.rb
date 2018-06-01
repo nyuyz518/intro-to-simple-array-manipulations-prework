@@ -1,8 +1,7 @@
 def using_push (array, string)
-  updated_array = []
-  updated_array = array.push(string)
+    array.push(string)
 end 
-  updated_array
+
 
 def using_unshift (array, string)
   new_arr = []
