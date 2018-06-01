@@ -15,11 +15,7 @@ array.pop
 end 
 
 def pop_with_args(array, string1, string2)
-new_arr=[]
-new_arr << array.pop(string1)
-new_arr << array.pop(string2)
 end 
-new_arr
 
 
 def using_shift (array)
